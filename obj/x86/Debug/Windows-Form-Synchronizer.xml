@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Windows-Form-Synchronizer
+</name>
+</assembly>
+<members>
+<member name="M:Windows_Form_Synchronizer.Synchronizer.AddNewControl(System.Object@,System.Boolean)">
+	<summary>
+ Adds a new control to be synchronized.
+ </summary>
+	<param name="newControl">A ByRef of the control you want to add to the collection.</param>
+	<remarks></remarks>
+</member><member name="M:Windows_Form_Synchronizer.Synchronizer.SetText(System.Object)">
+	<summary>
+ Sets the new value for the Synchronizer and distributes it to the associated controls.
+ </summary>
+	<param name="newText">String value of the new text.</param>
+	<remarks></remarks>
+</member><member name="P:Windows_Form_Synchronizer.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Windows_Form_Synchronizer.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Windows_Form_Synchronizer.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
